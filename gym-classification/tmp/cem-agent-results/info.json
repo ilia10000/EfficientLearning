@@ -1,0 +1,1 @@
+{"params": {"n_iter": 50, "batch_size": 1, "elite_frac": 0.2}, "argv": [""], "env_id": "classification-v0"}
